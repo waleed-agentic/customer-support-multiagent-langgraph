@@ -109,3 +109,8 @@ streamlit run app.py
 - Persist chat history to a database
 - Add authentication and multi-user session support
 - Replace ngrok with a permanent cloud deployment (Streamlit Cloud / Render)
+
+## Author
+
+**Waleed ahmad** — Data Science  student, building agentic AI systems as part of a hands-on learning journey.
+
